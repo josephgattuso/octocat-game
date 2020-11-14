@@ -1,10 +1,10 @@
-# :octocat:  Octocat Game 
+# Octocat Game :octocat:
 
 Test your `git` memory with the Octocat Game. Live demo of the game is available here: <https://josephgattuso.github.io/octocat-game/>
 
-> This repo forms my completed portion of the [Security Strategy Essentials](https://lab.github.com/githubtraining/security-strategy-essentials) Learning Lab.
+> This repo forms the completed portion of the [Security Strategy Essentials](https://lab.github.com/githubtraining/security-strategy-essentials) Learning Lab.
 
-## :mortar_board:  Course Summary
+## 🎓 Course Summary
 
 - Enable vulnerable dependency detection for private repositories
 - Detect and fix outdated dependencies with security vulnerabilities
@@ -14,7 +14,7 @@ Test your `git` memory with the Octocat Game. Live demo of the game is available
 - Keep sensitive files out of your repository by leveraging the use of a .gitignore file
 - Remove historical commits exposing sensitive data deep in your repository
 
-## :globe_with_meridians:  Links
+## 🌐 Links
 
 - All the images from <https://octodex.github.com/>.
 - Original CodePen is available at: <https://codepen.io/JasonEtco/pen/yobKqg>.
